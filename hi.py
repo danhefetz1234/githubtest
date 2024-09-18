@@ -1,1 +1,1 @@
-print(Dan ya homo)
+print("Dan ya homo")
