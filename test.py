@@ -1,3 +1,2 @@
-dan homo
-dan eats dick
+print("hi")
 
