@@ -1,1 +1,16 @@
-hi
+git add <file1> <file2> .... 
+
+git commit -m "message"
+
+git stash
+
+git push
+
+
+
+git pull
+
+
+if erorr :
+:q
+
